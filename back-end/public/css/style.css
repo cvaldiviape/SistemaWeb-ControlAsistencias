@@ -1,0 +1,17 @@
+#cell {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.cell {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+tr td {
+    background-color: #9c1111;
+}
+
+tr > td {
+    border-bottom: 1px solid #000000;
+}
